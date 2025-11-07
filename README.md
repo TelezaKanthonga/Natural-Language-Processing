@@ -19,7 +19,7 @@ Natural Language Processing (NLP) is a branch of **Artificial Intelligence (AI)*
 ---
 
 ## 📘 About This Repository
-This repository explores **Natural Language Processing (NLP)** — a field at the intersection of **Artificial Intelligence (AI)**, **Linguistics**, and **Computer Science**. NLP enables machines to understand, interpret, and generate human language.
+This repository explores **Natural Language Processing (NLP)** ,a field at the intersection of **Artificial Intelligence (AI)**, **Linguistics**, and **Computer Science**. NLP enables machines to understand, interpret, and generate human language.
 
 The goal of this project is to provide an **accessible, practical, and structured introduction** to NLP concepts, techniques, and applications.
 
@@ -27,6 +27,6 @@ Whether you’re a **beginner** or an **intermediate learner**, this repository 
 
 ---
 
-## 📂 Repository Structure
+
 
 
